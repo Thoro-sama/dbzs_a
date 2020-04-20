@@ -1,0 +1,205 @@
+[
+        {
+            "id": 1,
+            "title": "1. vonal",
+            "startingTime": 60,
+            "stations": [
+                {
+                    "id": 71,
+                    "title": "Kondorfa urca",
+                    "longitude": 19.043271,
+                    "latitude": 47.455178,
+                    "arrivalTime": 0
+                },
+                {
+                    "id": 72,
+                    "title": "Etele / Fehérvári",
+                    "longitude": 19.042455,
+                    "latitude": 47.462680,
+                    "arrivalTime": 3
+                },
+                {
+                    "id": 73,
+                    "title": "Újbuda-központ",
+                    "longitude": 19.046479,
+                    "latitude": 47.473794,
+                    "arrivalTime": 5
+                },
+                {
+                    "id": 74,
+                    "title": "Budai út - Fiskális út",
+                    "longitude": "18.4468",
+                    "latitude": "47.195",
+                    "arrivalTime": 3
+                },
+                {
+                    "id": 75,
+                    "title": "Petőfi híd Buda",
+                    "longitude": 19.059651,
+                    "latitude": 47.476829,
+                    "arrivalTime": 10
+                },
+                {
+                    "id": 76,
+                    "title": "Corvin-negyed",
+                    "longitude": 19.070294,
+                    "latitude": 47.486049,
+                    "arrivalTime": 14
+                },
+                {
+                    "id": 77,
+                    "title": "Blaha",
+                    "longitude": 19.070814,
+                    "latitude": 47.497007,
+                    "arrivalTime": 20
+                },
+                {
+                    "id": 78,
+                    "title": "Keleti",
+                    "longitude": 19.081559,
+                    "latitude": 47.500296,
+                    "arrivalTime": 26
+                },
+                {
+                    "id": 79,
+                    "title": "Puskás stadion",
+                    "longitude": 19.097398,
+                    "latitude": 47.504852,
+                    "arrivalTime": 34
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "2. vonal",
+            "startingTime": 60,
+            "stations": [
+                {
+                    "id": 83,
+                    "title": "Farkas erdő",
+                    "longitude": 19.100875,
+                    "latitude": 47.590090,
+                    "arrivalTime": 0
+                },
+                {
+                    "id": 84,
+                    "title": "Fóti út",
+                    "longitude": 19.088146,
+                    "latitude": 47.580046,
+                    "arrivalTime": 5
+                },
+                {
+                    "id": 85,
+                    "title": "Váci út",
+                    "longitude": 19.079852,
+                    "latitude": 47.567297,
+                    "arrivalTime": 8
+                },
+                {
+                    "id": 86,
+                    "title": "Andretti",
+                    "longitude": 19.078466,
+                    "latitude": 47.562658,
+                    "arrivalTime": 12
+                },
+                {
+                    "id": 87,
+                    "title": "Heim pál kórház",
+                    "longitude": 19.073165,
+                    "latitude": 47.548513,
+                    "arrivalTime": 15
+                },
+                {
+                    "id": 88,
+                    "title": "Vízafogó utca",
+                    "longitude": 19.070698,
+                    "latitude": 47.542175,
+                    "arrivalTime": 27
+                },
+                {
+                    "id": 89,
+                    "title": "Dagály utca",
+                    "longitude": 19.068199,
+                    "latitude": 47.536613,
+                    "arrivalTime": 35
+                },
+                {
+                    "id": 90,
+                    "title": "Honvvédkórház",
+                    "longitude": 19.073053,
+                    "latitude": 47.528626,
+                    "arrivalTime": 45
+                },
+                {
+                    "id": 91,
+                    "title": "M3 bevezető",
+                    "longitude": 19.090222,
+                    "latitude": 47.518057,
+                    "arrivalTime": 64
+                },
+                {
+                    "id": 79,
+                    "title": "Puskás stadion",
+                    "longitude": 19.097398,
+                    "latitude": 47.504852,
+                    "arrivalTime": 78
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "3. vonal",
+            "startingTime": 45,
+            "stations": [
+                {
+                    "id": 93,
+                    "title": "MOM park",
+                    "longitude": 19.022506,
+                    "latitude": 47.490303,
+                    "arrivalTime": 0
+                },
+                {
+                    "id": 94,
+                    "title": "Széll Kálmán tér",
+                    "longitude": 19.045206,
+                    "latitude": 47.490371,
+                    "arrivalTime": 8
+                },
+                {
+                    "id": 95,
+                    "title": "Elvis Presley utca",
+                    "longitude": 19.038940,
+                    "latitude": 47.514797,
+                    "arrivalTime": 12
+                },
+                {
+                    "id": 95,
+                    "title": "Nyugati",
+                    "longitude": 19.056254,
+                    "latitude": 47.510665,
+                    "arrivalTime": 18
+                },
+                {
+                    "id": 95,
+                    "title": "Kodály körönd",
+                    "longitude": 19.069522,
+                    "latitude": 47.509145,
+                    "arrivalTime": 23
+                },
+                {
+                    "id": 95,
+                    "title": "Benczúr utca",
+                    "longitude": 19.078825,
+                    "latitude": 47.512734,
+                    "arrivalTime": 28
+                },
+                {
+                    "id": 79,
+                    "title": "Puskás stadion",
+                    "longitude": 19.097398,
+                    "latitude": 47.504852,
+                    "arrivalTime": 38
+                }
+            ]
+        }
+    ]
