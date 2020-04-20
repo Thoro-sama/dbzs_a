@@ -1,0 +1,13 @@
+{
+        "sounds": false,
+        "reminders": true,
+        "team_setups": false,
+        "match_starts": true,
+        "match_ends": false,
+        "goals": true,
+        "rich_notifications": true,
+        "exclusive_contents": true,
+        "deals": true,
+        "news": true,
+        "infos": true
+    }
