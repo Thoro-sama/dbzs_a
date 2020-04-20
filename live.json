@@ -1,14 +1,14 @@
 {
        "id": 10001,
-       "event_name": "Vesztesek ligája 4. forduló",
+       "event_name": "Bajnokok ligája 4. forduló",
        "event_date": 1584319909 ,
        "event_location": "Győr",
-       "away_squad_name": "Másik csapat",
-       "away_squad_name": "MSK FC",
+       "away_squad_name": "Senso-Media Football Club",
+       "away_squad_name": "SensoFC",
        "away_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
        "away_squad_score": 0,
-       "home_squad_name": "Vesztes Csapat",
-       "home_squad_short_name": "LOSERS",
+       "home_squad_name": "G.. R.. E.. E.. N.. Football Club",
+       "home_squad_short_name": "Green Fc",
        "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
        "home_squad_score": 2,
        "event_statistics": {
@@ -25,6 +25,22 @@
             "away_squad_yellow_cards": 0,
             "away_squad_red_cards": 0
        },
+       "home_squad_goalsorers": [
+              {
+                     "name": "Kavits Béla",
+                     "time": 42
+       },
+              {
+                     "name": "Kiss Peti",
+                     "time": 78
+       }
+                           ],
+         "away_squad_goalsorers": [
+              {
+                     "name": "Paszuly Ödön",
+                     "time": 87
+       }
+                           ],
        "event_commentaries": [
        {
                 "time": "90+3",
