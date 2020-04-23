@@ -1,24 +1,24 @@
 [
         {
-            "question_id": "7",
+            "question_id": 7,
             "question": "Melyik évben alakult a klub?",
             "answers": [
                 {
-                    "answer_id": "16",
+                    "answer_id": 16,
                     "answer": "1908",
                     "is_correct": false,
                     "votes": 19,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "17",
+                    "answer_id": 17,
                     "answer": "1909",
                     "is_correct": true,
                     "votes": 186,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "18",
+                    "answer_id": 18,
                     "answer": "1910",
                     "is_correct": false,
                     "votes": 4,
@@ -27,25 +27,25 @@
             ]
         },
         {
-            "question_id": "8",
+            "question_id": 8,
             "question": "Mi volt a klub neve alapításkor?",
             "answers": [
                 {
-                    "answer_id": "19",
+                    "answer_id": 19,
                     "answer": "Kispest FC",
                     "is_correct": false,
                     "votes": 17,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "20",
+                    "answer_id": 20,
                     "answer": "Kispest-HFC",
                     "is_correct": false,
                     "votes": 11,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "21",
+                    "answer_id": 21,
                     "answer": "Kispesti AC",
                     "is_correct": true,
                     "votes": 179,
@@ -54,25 +54,25 @@
             ]
         },
         {
-            "question_id": "9",
+            "question_id": 9,
             "question": "Ki volt a klub első elnöke?",
             "answers": [
                 {
-                    "answer_id": "22",
+                    "answer_id": 22,
                     "answer": "Mayer Béla",
                     "is_correct": false,
                     "votes": 116,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "23",
+                    "answer_id": 23,
                     "answer": "Csimár Károly",
                     "is_correct": true,
                     "votes": 46,
                     "user_vote": false
                 },
                 {
-                    "answer_id": "24",
+                    "answer_id": 24,
                     "answer": "Báthory Ferenc",
                     "is_correct": false,
                     "votes": 42,
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "question_id": "10",
+            "question_id": 10,
             "question": "Hogyan nevezték el a 20-as években az ellenfelek a Kispest pályáját?",
             "answers": [
                 {
