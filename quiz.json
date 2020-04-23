@@ -1,6 +1,6 @@
 [
   {
-    "id": "4",
+    "id": 4,
     "title": "Jól ismered a SensoFc-t?",
     "acknowledge_text": "Köszönjük, hogy kitöltötted a kvízt!",
     "valid_from": "2019-11-17 11:52:00",
@@ -8,440 +8,440 @@
     "picture_url": "https://store-images.s-microsoft.com/image/apps.47198.13510798886190175.540f4b0c-35cc-4bef-a93e-318d4bc93b0c.e9adf3b3-4942-4fa8-840a-64b61dc8e1e7?mode=scale&q=90&h=400&w=800&background=%23464646",
     "questions": [
       {
-        "question_id": "7",
+        "question_id": 7,
         "question": "Melyik évben alakult a klub?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "16",
+            "answer_id": 16,
             "answer": "1908",
             "is_correct": false
           },
           {
-            "answer_id": "17",
+            "answer_id": 17,
             "answer": "1909",
             "is_correct": true
           },
           {
-            "answer_id": "18",
+            "answer_id": 18,
             "answer": "1910",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "8",
+        "question_id": 8,
         "question": "Mi volt a klub neve alapításkor?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "19",
+            "answer_id": 19,
             "answer": "Kispest FC",
             "is_correct": false
           },
           {
-            "answer_id": "20",
+            "answer_id": 20,
             "answer": "Kispest-HFC",
             "is_correct": false
           },
           {
-            "answer_id": "21",
+            "answer_id": 21,
             "answer": "Kispesti AC",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "9",
+        "question_id": 9,
         "question": "Ki volt a klub első elnöke?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "22",
+            "answer_id": 22,
             "answer": "Mayer Béla",
             "is_correct": false
           },
           {
-            "answer_id": "23",
+            "answer_id": 23,
             "answer": "Csimár Károly",
             "is_correct": true
           },
           {
-            "answer_id": "24",
+            "answer_id": 24,
             "answer": "Báthory Ferenc",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "10",
+        "question_id": 10,
         "question": "Hogyan nevezték el a 20-as években az ellenfelek a Kispest pályáját?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "25",
+            "answer_id": 25,
             "answer": "Sárkánybarlang",
             "is_correct": true
           },
           {
-            "answer_id": "26",
+            "answer_id": 26,
             "answer": "Medvebarlang",
             "is_correct": false
           },
           {
-            "answer_id": "27",
+            "answer_id": 27,
             "answer": "Oroszlánbarlang",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "11",
+        "question_id": 11,
         "question": "Melyik állat a klub kabalaállata?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "28",
+            "answer_id": 28,
             "answer": "fóka",
             "is_correct": false
           },
           {
-            "answer_id": "29",
+            "answer_id": 29,
             "answer": "oroszlán",
             "is_correct": true
           },
           {
-            "answer_id": "30",
+            "answer_id": 30,
             "answer": "sárkány",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "12",
+        "question_id": 12,
         "question": "Mikor nyert először Magyar Kupát a Kispest?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "31",
+            "answer_id": 31,
             "answer": "1919",
             "is_correct": false
           },
           {
-            "answer_id": "32",
+            "answer_id": 32,
             "answer": "1923",
             "is_correct": false
           },
           {
-            "answer_id": "33",
+            "answer_id": 33,
             "answer": "1926",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "13",
+        "question_id": 13,
         "question": "Mikor nyerte első bajnoki címét a Bp. Honvéd?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "34",
+            "answer_id": 34,
             "answer": "1946/47",
             "is_correct": false
           },
           {
-            "answer_id": "35",
+            "answer_id": 35,
             "answer": "1948/49",
             "is_correct": false
           },
           {
-            "answer_id": "36",
+            "answer_id": 36,
             "answer": "1949/50",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "14",
+        "question_id": 14,
         "question": "Ki szerezte a legtöbb gólkirályi címet a klubnak?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "37",
+            "answer_id": 37,
             "answer": "Puskás Ferenc",
             "is_correct": true
           },
           {
-            "answer_id": "38",
+            "answer_id": 38,
             "answer": "Tichy Lajos",
             "is_correct": false
           },
           {
-            "answer_id": "39",
+            "answer_id": 39,
             "answer": "Davide Lanzafame",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "15",
+        "question_id": 15,
         "question": "Milyen poszton játszott Bozsik József?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "40",
+            "answer_id": 40,
             "answer": "jobbhátvéd",
             "is_correct": false
           },
           {
-            "answer_id": "41",
+            "answer_id": 41,
             "answer": "balszélső",
             "is_correct": false
           },
           {
-            "answer_id": "42",
+            "answer_id": 42,
             "answer": "jobbfedezet",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "16",
+        "question_id": 16,
         "question": "Mi volt a beceneve Grosics Gyulának?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "43",
+            "answer_id": 43,
             "answer": "Fekete párduc",
             "is_correct": true
           },
           {
-            "answer_id": "44",
+            "answer_id": 44,
             "answer": "Barna medve",
             "is_correct": false
           },
           {
-            "answer_id": "45",
+            "answer_id": 45,
             "answer": "Szürke farkas",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "17",
+        "question_id": 17,
         "question": "Ki volt a Honvéd színeiben a legtöbbször bajnok?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "46",
+            "answer_id": 46,
             "answer": "Puskás Ferenc",
             "is_correct": false
           },
           {
-            "answer_id": "47",
+            "answer_id": 47,
             "answer": "Sikesdi Gábor",
             "is_correct": true
           },
           {
-            "answer_id": "48",
+            "answer_id": 48,
             "answer": "Détári Lajos",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "18",
+        "question_id": 18,
         "question": "Az alábbiak közül ki nem volt kapus?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "49",
+            "answer_id": 49,
             "answer": "Faragó Lajos",
             "is_correct": false
           },
           {
-            "answer_id": "50",
+            "answer_id": 50,
             "answer": "Faragó György",
             "is_correct": false
           },
           {
-            "answer_id": "51",
+            "answer_id": 51,
             "answer": "Faragó István",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "19",
+        "question_id": 19,
         "question": "Ki volt a Kispest első válogatott játékosa?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "52",
+            "answer_id": 52,
             "answer": "Varga Péter",
             "is_correct": true
           },
           {
-            "answer_id": "53",
+            "answer_id": 53,
             "answer": "Varga József",
             "is_correct": false
           },
           {
-            "answer_id": "54",
+            "answer_id": 54,
             "answer": "Varga László dr.",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "20",
+        "question_id": 20,
         "question": "Melyik csapat ellen játszotta a Kispest első hivatalos mérkőzését?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "55",
+            "answer_id": 55,
             "answer": "Pécs",
             "is_correct": false
           },
           {
-            "answer_id": "56",
+            "answer_id": 56,
             "answer": "Monor",
             "is_correct": true
           },
           {
-            "answer_id": "57",
+            "answer_id": 57,
             "answer": "Szeged",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "21",
+        "question_id": 21,
         "question": "A Bp. Honvéd első bajnokcsapatának ki volt az edzője?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "58",
+            "answer_id": 58,
             "answer": "Guttmann Béla",
             "is_correct": false
           },
           {
-            "answer_id": "59",
+            "answer_id": 59,
             "answer": "Kalmár Jenő",
             "is_correct": false
           },
           {
-            "answer_id": "60",
+            "answer_id": 60,
             "answer": "id. Puskás Ferenc",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "22",
+        "question_id": 22,
         "question": "Ki nem volt olimpiai bajnok az alábbiak közül?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "61",
+            "answer_id": 61,
             "answer": "Kocsis Lajos",
             "is_correct": false
           },
           {
-            "answer_id": "62",
+            "answer_id": 62,
             "answer": "Kozma Mihály",
             "is_correct": true
           },
           {
-            "answer_id": "63",
+            "answer_id": 63,
             "answer": "Komora Imre",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "23",
+        "question_id": 23,
         "question": "Melyik csapat volt a Bp. Honvéd első ellenfele a Bajnokcsapatok Európa Kupájában?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "64",
+            "answer_id": 64,
             "answer": "Atletico Madrid",
             "is_correct": false
           },
           {
-            "answer_id": "65",
+            "answer_id": 65,
             "answer": "Real Betis",
             "is_correct": false
           },
           {
-            "answer_id": "66",
+            "answer_id": 66,
             "answer": "Atletic Bilbao",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "24",
+        "question_id": 24,
         "question": "Mikor nyert Közép-európai Kupát a Bp. Honvéd?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "67",
+            "answer_id": 67,
             "answer": "1958",
             "is_correct": false
           },
           {
-            "answer_id": "68",
+            "answer_id": 68,
             "answer": "1959",
             "is_correct": true
           },
           {
-            "answer_id": "69",
+            "answer_id": 69,
             "answer": "1960",
             "is_correct": false
           }
         ]
       },
       {
-        "question_id": "25",
+        "question_id": 25,
         "question": "Ki szerzett 8 gólt a Hercegszántó—Bp. Honvéd Magyar Kupa (0-15) Mérkőzésen?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "70",
+            "answer_id": 70,
             "answer": "Puskás Ferenc",
             "is_correct": false
           },
           {
-            "answer_id": "71",
+            "answer_id": 71,
             "answer": "Tichy Lajos",
             "is_correct": false
           },
           {
-            "answer_id": "72",
+            "answer_id": 72,
             "answer": "Kozma Mihály",
             "is_correct": true
           }
         ]
       },
       {
-        "question_id": "26",
+        "question_id": 26,
         "question": "Ki játszotta a legtöbb NBI-es meccset a Bp. Honvéd színeiben?",
         "user_voted": false,
         "answers": [
           {
-            "answer_id": "73",
+            "answer_id": 73,
             "answer": "Bozsik József",
             "is_correct": true
           },
           {
-            "answer_id": "74",
+            "answer_id": 74,
             "answer": "Puskás Ferenc",
             "is_correct": false
           },
           {
-            "answer_id": "75",
+            "answer_id": 75,
             "answer": "Kozma Mihály",
             "is_correct": false
           }
