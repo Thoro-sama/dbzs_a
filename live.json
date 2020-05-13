@@ -4,7 +4,7 @@
        "event_date": 1584319909 ,
        "event_location": "Győr",
        "away_squad_name": "Senso-Media Football Club",
-       "away_squad_name": "SensoFC",
+       "away_squad_short_name": "SensoFC",
        "away_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
        "away_squad_score": 0,
        "home_squad_name": "G.. R.. E.. E.. N.. Football Club",
@@ -25,7 +25,7 @@
             "away_squad_yellow_cards": 0,
             "away_squad_red_cards": 0
        },
-       "home_squad_goalsorers": [
+       "home_squad_goalscorers": [
               {
                      "name": "Kavits Béla",
                      "time": 42
@@ -35,7 +35,7 @@
                      "time": 78
        }
                            ],
-         "away_squad_goalsorers": [
+         "away_squad_goalscorers": [
               {
                      "name": "Paszuly Ödön",
                      "time": 87
